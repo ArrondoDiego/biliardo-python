@@ -1,6 +1,6 @@
 # Biliardo 2D in Python
 
-Progetto scolastico del 2019: una simulazione 2D di biliardo scritta in Python, con una piccola libreria grafica didattica basata su Tkinter.
+Progetto scolastico del 2017: una simulazione 2D di biliardo scritta in Python, con una piccola libreria grafica didattica basata su Tkinter.
 
 > **Stato:** progetto storico, non più mantenuto. Alcune parti sono incomplete o non funzionanti (ad esempio buche laterali e sponde).
 
